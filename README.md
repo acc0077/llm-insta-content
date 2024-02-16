@@ -13,3 +13,8 @@ The goal of this project was to utilize LLMs and image generation to automate th
  - The image url output from Dalle-3 was used to store the images into an AWS S3 bucket to help streamline the upload to Instagram via the Instagram Graph API.
  - Once the images are stored in S3 buckets and the captions have been generated, the Instagram Graph API is used to upload all the content to each instagram account.
  - This entire processes is automated to run daily through having the code scheduled on https://www.pythonanywhere.com/ tasks.
+
+
+
+#### Contact Me
+ - If you would like to learn more about this project, please email me at acarterdata@outlook.com.
