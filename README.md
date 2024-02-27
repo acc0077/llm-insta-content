@@ -6,6 +6,10 @@
 The goal of this project was to utilize LLMs and image generation to automate the content for 4 instagram accounts.  
 
 
+#### Instagram Accounts
+ - https://www.instagram.com/dapperdraftsmen/
+ - https://www.instagram.com/chef.jeffery/
+
 #### Process
  - Each instagram account was given a specific niche to follow.
  - Prompts for each instagram niche were engineered *(engineered prompt lists/dictionaries were developed seperatly using LLMs to automatically generate all of them; not manually)* then feed to OpenAI's 3.5 turbo API to extrapolate and convert into image generation prompts and also instagram captions.
